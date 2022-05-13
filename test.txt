@@ -1,13 +1,7 @@
 test.txtaaaaa
 bbbb
-<<<<<<< HEAD
 cccc
-<<<<<<< HEAD
-=======
 cccc
 dddd
->>>>>>> b5d1a06de59b01154e34cd1cdeb6ec6a86e1d00f
-=======
 dddd
 eeee
->>>>>>> 561bbb47aff10c01b10a27c79072e6259d6d041a
